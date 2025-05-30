@@ -2,12 +2,12 @@
 
 This project uses a neural network (built with TensorFlow and Keras) to classify handwritten digits (0–9) from the MNIST dataset.
 
-## 📦 Libraries Used
+## Libraries Used
 - TensorFlow / Keras
 - NumPy / Pandas
 - Matplotlib
 
-## 🧠 Overview
+## Overview
 This notebook trains a simple neural network on the MNIST dataset, evaluates its performance, and visualizes the results.
 
 jupyter:
@@ -226,8 +226,8 @@ sns = sns.heatmap(cm, annot=True, fmt='d')
 
 ![](vertopal_164f8fd76e6141728c60ae0ed5ebc4d9/8f3f105590278cb45083c4da6c06395095ca0ede.png)
 
-## ✅ Conclusion
+## Conclusion
 The model achieves high accuracy (>98%) in recognizing handwritten digits using a basic neural network architecture.
 
-## 🚀 Try it in Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/your-repo/blob/main/README.md)
+## Try it in Colab
+[Open In Colab](https://colab.research.google.com/github/rajkachhadiya123/ANN-multiclass-classification/blob/main/ANN_image_project.ipynb)
